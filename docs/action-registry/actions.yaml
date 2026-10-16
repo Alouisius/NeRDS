@@ -550,6 +550,15 @@ actions:
     action: Ontdekken
     date_added: 08-12-2025
     status: beschikbaar
+  - id: digicampus-prototypes
+    name: Digicampus
+    source: https://prototypes.digicampus.tech/
+    description: "Lopende (AI) innovatie projecten binnen het Rijk"
+    richtlijn: samenwerking
+    type: tool
+    action: Leren
+    date_added: 16-10-2026
+    status: beschikbaar
   - id: nl-design-system
     name: NL Design System
     source: https://www.nldesignsystem.nl
